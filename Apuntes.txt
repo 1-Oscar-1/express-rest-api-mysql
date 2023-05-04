@@ -1,0 +1,4 @@
+Debemos activar los imports en el package.json agregando:
+"type": "module"
+
+El IFNULL(?, valor) se usa para decir que si es nulo lo dejara con el mismo valor, pero si no es null lo va a actualizar.
